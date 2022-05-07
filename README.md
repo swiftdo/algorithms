@@ -4,6 +4,14 @@
 
 ![五分钟学算法](http://blog.oldbird.run/2020-08-16-15975531702215.jpg)
 
+在线阅读：[https://oldbird.run/algorithms](https://oldbird.run/algorithms)
+
+关注官方公众号 **OldBirds**
+
+<img src="http://blog.loveli.site/mweb/wechat-logo.png" width="420" />
+
+**站点**：[https://oldbird.run](https://oldbird.run)
+
 ## 规划
 
 - [x] 十大经典排序算法
