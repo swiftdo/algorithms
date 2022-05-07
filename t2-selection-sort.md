@@ -1,14 +1,3 @@
----
-title: "选择排序"
-sitemap:
-  exclude: false
-  changefreq: hourly
-date: 2020-08-17
-tags:
-  - 数据结构与算法
-  - 基础
----
-
 选择排序就是重复“从待排序的数据中寻找最小值，将其与序列最左边的数字进行交换” 这一操作的算法。在序列中寻找最小值时使用的是线性查找。
 
 ![754476-06a4090ebc2f5655](http://blog.oldbird.run/754476-06a4090ebc2f5655.gif)
